@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ritesh Bobade</h1>
 <h3 align="center">Aspiring Software developer !!</h3>
 
- 📫 How to reach me **cdriteshbobade@gmail.com**
- 📄 Know about my experiences "view"
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+
+- 📫 How to reach me **cdriteshbobade@gmail.com**
+
+- 📄 Know about my experiences [view](view)
 
 <h3 align="left">⚡Connect with me:</h3>
 <p align="left">
