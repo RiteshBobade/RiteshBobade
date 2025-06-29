@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Bobade</h1>
-<h3 align="center">A passionate frontend developer !!</h3>
+<h3 align="center">Aspiring Software Developer !!</h3>
 
 - 📫 How to reach me **cdriteshbobade@gmail.com**
 
