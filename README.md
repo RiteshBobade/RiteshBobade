@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **cdriteshbobade@gmail.com**
 
-- 📄 Know about my experiences [view](view)<a href="https://drive.google.com/drive/home">view</a>
+- 📄 Know about my experiences [view]<a href="[https://drive.google.com/drive/home](https://drive.google.com/file/d/1gzkNxLgvQncVIqPpL7XR0Fy-CYJg5NpK/view?usp=drive_link)">view</a>
 
 <h3 align="left">⚡Connect with me:</h3>
 <p align="left">
