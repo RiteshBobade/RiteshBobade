@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **cdriteshbobade@gmail.com**
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1gzkNxLgvQncVIqPpL7XR0Fy-CYJg5NpK/view?usp=drive_link" target="_blank">[View]</a>
 
 - 📄 Know about my experiences [view](view)<a href="(https://drive.google.com/file/d/1gzkNxLgvQncVIqPpL7XR0Fy-CYJg5NpK/view?usp=drive_link)"></a>
 
