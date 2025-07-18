@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshbobade&label=Profile%20views&color=0e75b6&style=flat" alt="riteshbobade" /> </p>
+
 - 📫 How to reach me **cdriteshbobade@gmail.com**
 - 📄 Know about my resume <a href="https://drive.google.com/file/d/1gzkNxLgvQncVIqPpL7XR0Fy-CYJg5NpK/view?usp=drive_link" target="_blank">View</a>
 - 📝 My portfolio <a href="https://personal-portfolio-five-pink-79.vercel.app" target="_blank">View</a>
